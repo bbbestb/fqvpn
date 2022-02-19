@@ -28,7 +28,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)</h1>
-      <h2 class="project-tagline">2022年好用的翻墙软件VPN推荐，目前大部分翻墙软件或VPN梯子在中国失效，比如PureVPN、IVacy、VyprVPN等，请注意避坑！另外比较VPN、机场、VPS搭建梯子等最新科学上网软件与方法。</h2>
+      <h2 class="project-tagline">2022年好用的翻墙软件VPN推荐，目前大部分翻墙软件或VPN梯子在中国失效，比如PandaVPN、IVacy、VyprVPN等，请注意避坑！另外比较VPN、机场、VPS搭建梯子等最新科学上网软件与方法。</h2>
       
       
     </header>
@@ -43,7 +43,7 @@
 </blockquote>
 
 <blockquote>
-  <p>21年10月-2022年1月使用表现简介：<strong>PureVPN、Ivacy、SurfShark、VyprVPN等</strong>在国内已经很难连接，蓝灯VPN存在翻墙隐私泄露，且服务器隔一段时间就会被封，看到不少博客上还挂着在推荐这些说在中国能用，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，标准版客户端可用节点不多，使用的话最好找客服获取特供客户端进行连接。<strong>光年跑路</strong>，客服无人应答，也不会有退款。<strong>ExpressVPN和StrongVPN一直表现尚可，长期可用</strong>，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供精简版客户端稳定性不错），iPhone表现不如Express，有时要联系客服手动配置翻墙。</p>
+  <p>21年10月-2022年1月使用表现简介：<strong>PandaVPN、Ivacy、SurfShark、VyprVPN等</strong>在国内已经很难连接，蓝灯VPN存在翻墙隐私泄露，且服务器隔一段时间就会被封，看到不少博客上还挂着在推荐这些说在中国能用，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，标准版客户端可用节点不多，使用的话最好找客服获取特供客户端进行连接。<strong>光年跑路</strong>，客服无人应答，也不会有退款。<strong>ExpressVPN和StrongVPN一直表现尚可，长期可用</strong>，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供精简版客户端稳定性不错），iPhone表现不如Express，有时要联系客服手动配置翻墙。</p>
 
   <p>另外，<strong>建议大家选择创立时间超过3年以上的大牌VPN，并且退款时限至少半个月以上</strong>。要特别留意国产的翻墙软件(包括各种小机场)，一般也就开张不到1年，基本都是私人作坊式运作，没有退款政策，少数能退款的也就7天时限，并不一定真的能退，另外安全性有很大问题，而且近几年中途被封跑路的太多了，退款和售后是没有的。因为行业的混乱和政策风险，干一阵跑路再换马甲重新开张赚钱更容易、也更安全，这一点国外大厂VPN品牌好很多，因为客户大部分是国外用户，比较认品牌，合法且能稳定盈利，至少不会跑路，连接协议是正儿八经的VPN强加密协议（一般是OpenVPN和IKEV2），256位加密，安全性没问题，感兴趣的可以去看<a href="#翻墙的安全性问题--翻墙软件与vpn的区别">翻墙安全性的相关内容</a>，一般的退款政策的时限是30天左右，国外使用问题都不大，至于能不能在国内使用，还是要仔细甄别，虽然翻墙VPN都会被封，但要有2点是必须的：<strong>1.最近2年在中国的可用率在90%以上</strong>，被封之后要等很久才能恢复还不如算了；<strong>2.有至少30天的全额退款政策</strong>，这一点国外大公司一般都比较明确写在官方条款里面，是受到当地法律约束的，基本上都有30天内不满意退全款的条款，但是不少国产或华人开发的都是个人作坊式，不但不能退款，还可能随时跑路。</p>
 </blockquote>
@@ -95,7 +95,7 @@
     <h4 id="72-strongvpn-性价比最佳">7.2 <a href="#2-strongvpn--性价比最佳">StrongVPN-性价比最佳</a></h4>
     <h4 id="73-nordvpn-表现一般">7.3 <a href="#3-nordvpn">NordVPN-表现一般</a></h4>
     <h4 id="74-ivacy-不推荐">7.4 <a href="#4-ivacy">IVacy-不推荐</a></h4>
-    <h4 id="75-purevpn-不推荐">7.5 <a href="#5-purevpn">PureVPN-不推荐</a></h4>
+    <h4 id="75-PandaVPN-不推荐">7.5 <a href="#5-PandaVPN">PandaVPN-不推荐</a></h4>
   </blockquote>
 
   <h3 id="8不要入坑的vpn">8.<a href="#不要入坑的vpn">不要入坑的VPN</a></h3>
@@ -169,7 +169,7 @@
   <p>除非你是网络安全技术方面的大咖或者有捣腾VPS这方面的兴趣，否则我现在不建议这么做，尤其是采用目前流行的脚本的方法，ip很容易死。</p>
 </blockquote>
 
-<p>过去几年租用VPS服务器自建翻墙工具一度很流行，以前很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但<strong>缺点就是现在使用市面通用协议的IP太容易被墙</strong>，尤其是<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：</p>
+<p>过去几年租用VPS服务器自建翻墙工具一度很流行，以前很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但<strong>缺点就是现在使用市面通用协议的IP太容易被墙</strong>，尤其是<a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：</p>
 
 <p><a href="#买vps自建翻墙服务器"><img src="https://www.safewebcn.com/img/bw-google-search.png" alt="Google搜索搬瓦工" /></a></p>
 
@@ -245,7 +245,7 @@
   <p>注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，我会在文中就每款VPN最近的使用体验进行总结，该文章会不断更新，请收藏本页面以便以后查看。</p>
 </blockquote>
 
-<h2 id="1-expressvpn--速度体验最佳">1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a></h2>
+<h2 id="1-expressvpn--速度体验最佳">1.<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank"> ExpressVPN – 速度体验最佳</a></h2>
 
 <blockquote>
   <p>2022年2月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay等线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，<strong>ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方在2021年新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款</strong>。目前由于国内政策原因，Express的支付宝付款通道被支付宝方面暂停了，可以优先选择国内银行卡、Paypal或带外币功能的信用卡购买。</p>
@@ -426,7 +426,7 @@
   <p><strong>推荐用户</strong>：对速度和稳定性有要求的用户、iPhone用户首选</p>
 </blockquote>
 
-<h3 id="-获取expressvpn优惠-"><center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">&gt;&gt; 获取ExpressVPN优惠 &lt;&lt;</a></center></h3>
+<h3 id="-获取expressvpn优惠-"><center><a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">&gt;&gt; 获取ExpressVPN优惠 &lt;&lt;</a></center></h3>
 
 <blockquote>
   <p>由于冒牌网站很多，官方已经不再使用镜像域名（只提供更新客户端、联系客服使用）处理中国地区的新订单，目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。</p>
@@ -447,7 +447,7 @@
 <p><a href="#2-strongvpn--性价比最佳"><img src="https://www.safewebcn.com/img/strong-logo.png" alt="StrongVPN" /></a></p>
 
 <blockquote>
-  <p>2022年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，<strong>目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的</strong>，目前也有较大的价格优惠。<strong>Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高</strong>（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。<strong>另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法</strong>。</p>
+  <p>2022年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，<strong>目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的</strong>，目前也有较大的价格优惠。<strong>Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高</strong>（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。<strong>另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法</strong>。</p>
 </blockquote>
 
 <p>StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源是应对墙的封锁最有效的办法。</p>
@@ -470,7 +470,7 @@
 
 <p>改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统权限原因改host操作较麻烦，下面是操作步骤：</p>
 
-<p>1.下载hosts文件： <a rel="nofollow noopener" href="https://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。</p>
+<p>1.下载hosts文件： <a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank"> 下载地址</a>(右键另存为)。</p>
 
 <p>2.Windows用户将下载的hosts文件移动到文件夹，路径是<code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
 
@@ -734,7 +734,7 @@
 
 <p>StrongVPN同样支持30天退款保证，有足够的时间测试使用。如果需要退款，可以找客服申请处理就行了，退款方式是按付款的路径原路返回。</p>
 
-<h2 id="3-nordvpn">3.<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> NordVPN</a></h2>
+<h2 id="3-nordvpn">3.<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxiandd&aff_click_id=fqvpn" target="_blank"> NordVPN</a></h2>
 
 <p><a href="#3-nordvpn"><img src="https://www.safewebcn.com/img/nord-min.png" alt="NordVPN" /></a></p>
 
@@ -748,11 +748,11 @@
 
 <p>国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网（手机用户建议在电脑上打开本页面操作）：</p>
 
-<p>1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)</p>
+<p>1.下载hosts文件： <a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank"> 下载地址</a>(右键另存为)</p>
 
 <p>2.Windows用户将下载的hosts文件移动到文件夹 <code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
 
-<p>3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。</p>
+<p>3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxiandd&aff_click_id=fqvpn" target="_blank"> 点击获取NordVPN官网优惠</a>。</p>
 
 <p>完成之后，就可以正常访问官网和使用客户端了。</p>
 
@@ -796,7 +796,7 @@
   <p>注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址，进行手动配置，连接成功率和速度我感觉明显要高于APP直连。</p>
 </blockquote>
 
-<h2 id="4-ivacy">4.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a></h2>
+<h2 id="4-ivacy">4.<a rel="nofollow noopener" href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxiandd&data2=fqvpn" target="_blank"> IVacy</a></h2>
 
 <p><a href="#6-ivacy"><img src="https://www.safewebcn.com/img/ivacy-logo.png" alt="IVacy" /></a></p>
 
@@ -810,11 +810,11 @@
 
 <p>国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网（手机用户建议在电脑上打开本页面操作）：</p>
 
-<p>1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)</p>
+<p>1.下载hosts文件： <a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank"> 下载地址</a>(右键另存为)</p>
 
 <p>2.Windows用户将下载的hosts文件移动到文件夹 <code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
 
-<p>3.完成之后清空浏览器缓存、刷新浏览器，然后<a href="https://linkv.org/ivacy">获取IVacy官网优惠</a>。</p>
+<p>3.完成之后清空浏览器缓存、刷新浏览器，然后<a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxiandd&data2=fqvpn">获取IVacy官网优惠</a>。</p>
 
 <p>完成之后，就可以正常访问官网和使用客户端了。</p>
 
@@ -848,27 +848,27 @@
 
 <p>在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。</p>
 
-<h2 id="5-purevpn">5.<a rel="nofollow noopener" href="https://linkv.org/pure/" target="_blank"> PureVPN</a></h2>
+<h2 id="5-PandaVPN">5.<a rel="nofollow noopener" href="https://www.pankvyh.xyz/r/22216799" target="_blank"> PandaVPN</a></h2>
 
-<p><a href="#6-purevpn"><img src="https://www.safewebcn.com/img/purevpn-logo.png" alt="PureVPN" /></a></p>
+<p><a href="#6-PandaVPN"><img src="https://www.safewebcn.com/img/PandaVPN-logo.png" alt="PandaVPN" /></a></p>
 
 <blockquote>
   <p>2021年3月测试，勉强可用但没有亮点，体验很一般，少数节点能连上，但网速不算快。<strong>不再推荐使用这款</strong>，中国大陆的服务器被去除，翻墙回国（墙外翻回墙内）也不行了。</p>
 </blockquote>
 
-<p>国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：</p>
+<p>国内打开PandaVPN官网需要改电脑Host文件，因为官网DNS在被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：</p>
 
 <p>国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作：</p>
 
-<p>1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)</p>
+<p>1.下载hosts文件： <a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank"> 下载地址</a>(右键另存为)</p>
 
 <p>2.Windows用户将下载的hosts文件移动到文件夹 <code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
 
-<p>3.完成之后清空浏览器缓存、刷新浏览器，然后<a href="https://linkv.org/pure/">点击获取PureVPN官网优惠</a>。</p>
+<p>3.完成之后清空浏览器缓存、刷新浏览器，然后<a href="https://www.pankvyh.xyz/r/22216799">点击获取PandaVPN官网优惠</a>。</p>
 
 <p>完成之后，就可以正常访问官网和使用客户端了。</p>
 
-<p>PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，但是敏感时期节点几乎集体挂掉。在中国的网络速度、稳定性目前来说对比前几位算一般，就我去年的体验来说客户端vpn线路连不上的时间加起来有2个月左右，差不多80%左右的全年可用率，如果你在敏感时期用OpenVPN手动配置的话全年可用率会更高一些。</p>
+<p>PandaVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，但是敏感时期节点几乎集体挂掉。在中国的网络速度、稳定性目前来说对比前几位算一般，就我去年的体验来说客户端vpn线路连不上的时间加起来有2个月左右，差不多80%左右的全年可用率，如果你在敏感时期用OpenVPN手动配置的话全年可用率会更高一些。</p>
 
 <p>Pure的客户端支持中文，对国内的用户十分友好。<del>另一大特点是有北京、上海等城市的服务器，极大方便海外华人浏览优酷、爱奇艺、酷狗音乐等有国内版权的网站，是翻墙回国必备神器之一</del>（国内服务器目前已被去除）。</p>
 
@@ -878,13 +878,13 @@
   <li>隐私保护</li>
 </ul>
 
-<p>PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。</p>
+<p>PandaVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PandaVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。</p>
 
 <ul>
   <li>全球可访问</li>
 </ul>
 
-<p>“PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能访问资源。”</p>
+<p>“PandaVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能访问资源。”</p>
 
 <p>我的体验：有些节点能连，但真的不算快。</p>
 
@@ -960,10 +960,10 @@
 
 <h3 id="其他翻墙姿势">其他翻墙姿势</h3>
 
-<p>上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有读者要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>，性价比较高，IP较新，也存在一些被封的IP，但相较于Vultr等国人扎堆的VPS好很多。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过并应用到防火长城之后，V2ray也就不好用了。</p>
+<p>上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有读者要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank">HostWinds</a>，性价比较高，IP较新，也存在一些被封的IP，但相较于Vultr等国人扎堆的VPS好很多。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过并应用到防火长城之后，V2ray也就不好用了。</p>
 
 <blockquote>
-  <p>如果打算自己用<strong>VPS自己搭建梯子</strong>，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，<strong>网络技术和经验不深的读者不推荐这种方法</strong>，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了，因为现在较流行的翻墙协议和技术无非是SS（R）、V2Ray、Trojan、Vmess等，目前防火长城主要是学习和判别流量特征，对这几种都能比较准确的识别和封锁，像这种与同一台境外VPS或域名进行长时间、大流量传输本来就不正常，无论流量怎么伪装都会有这种特征，下一次大规模屏蔽也只是时间的问题；其次，<strong>热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用</strong>，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，相对来说目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度会快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s –&gt;点击Fix ISP Block按钮–&gt;点击确认Confirm。</p>
+  <p>如果打算自己用<strong>VPS自己搭建梯子</strong>，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，<strong>网络技术和经验不深的读者不推荐这种方法</strong>，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了，因为现在较流行的翻墙协议和技术无非是SS（R）、V2Ray、Trojan、Vmess等，目前防火长城主要是学习和判别流量特征，对这几种都能比较准确的识别和封锁，像这种与同一台境外VPS或域名进行长时间、大流量传输本来就不正常，无论流量怎么伪装都会有这种特征，下一次大规模屏蔽也只是时间的问题；其次，<strong>热门的<a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用</strong>，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank">HostWinds</a>是个还不错的替代选择，相对来说目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度会快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s –&gt;点击Fix ISP Block按钮–&gt;点击确认Confirm。</p>
 </blockquote>
 
 <h2 id="关于vpn的一些问题">关于VPN的一些问题</h2>
