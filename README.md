@@ -4,39 +4,7 @@
     <head>
       <meta charset="UTF-8">
   <!-- Begin Jekyll SEO tag v2.7.1 -->
-  <title>好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑) | 翻墙君</title>
-  <meta name="generator" content="Jekyll v3.9.0" />
-  <meta property="og:title" content="好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)" />
-  <meta property="og:locale" content="en_US" />
-  <meta name="description" content="2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。" />
-  <meta property="og:description" content="2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。" />
-  <link rel="canonical" href="https://github.com/wuxiandd/fqvpn/" />
-  <meta property="og:url" content="https://github.com/wuxiandd/fqvpn/" />
-  <meta property="og:site_name" content="翻墙君" />
-  <meta name="twitter:card" content="summary" />
-  <meta property="twitter:title" content="好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)" />
-  <script type="application/ld+json">
-  {"description":"2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。","url":"https://github.com/wuxiandd/fqvpn/","@type":"WebSite","headline":"好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)","name":"翻墙君","@context":"https://schema.org"}</script>
-  <!-- End Jekyll SEO tag -->
-
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="theme-color" content="#157878">
-      <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-      <link rel="stylesheet" href="/assets/css/style.css?v=1ba275e326f891e6eba48e49d80aaaed4cfd3190">
-    </head>
-    <body>
-
-      <header class="page-header" role="banner">
-        <h1 class="project-name">好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)</h1>
-        <h2 class="project-tagline">2022年好用的翻墙软件VPN推荐，目前大部分翻墙软件或VPN梯子在中国失效，比如PandaVPN、IVacy、VyprVPN等，请注意避坑！另外比较VPN、机场、VPS搭建梯子等最新科学上网软件与方法。</h2>
-        
-        
-      </header>
-
-      <main id="content" class="main-content" role="main">
-        <h1 id="好用的vpn推荐国内仅2款好用2022年2月翻墙避坑">好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)</h1>
-
-  <p>最近更新：<code class="language-plaintext highlighter-rouge">2022年2月16日</code></p>
+ 
 
   <blockquote>
     <p><strong>目前在中国能长期稳定地使用、好用的翻墙VPN很少了，网上的搜索结果中大部分都不是很靠谱，不少VPN测评网站上的推荐名单常年不变，而名单中推荐的部分VPN在国内已经无法使用，有些文章内容则是在网上拼凑的，没有一点时效性</strong>。本文根据我自己的实际使用体验，介绍各款翻墙软件VPN近期使用情况，并不时根据最新的使用情况进行更新，供大家参考和排雷。这篇文章是中国安全翻墙攻略的<strong>详细版</strong>，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航，不过一定要把相关的使用信息看完。</p>
