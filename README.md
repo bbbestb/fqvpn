@@ -10,13 +10,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。" />
 <meta property="og:description" content="2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。" />
-<link rel="canonical" href="https://vpncn.github.io/" />
-<meta property="og:url" content="https://vpncn.github.io/" />
+<link rel="canonical" href="https://github.com/wuxiandd/fqvpn/" />
+<meta property="og:url" content="https://github.com/wuxiandd/fqvpn/" />
 <meta property="og:site_name" content="翻墙君" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)" />
 <script type="application/ld+json">
-{"description":"2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。","url":"https://vpncn.github.io/","@type":"WebSite","headline":"好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)","name":"翻墙君","@context":"https://schema.org"}</script>
+{"description":"2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。","url":"https://github.com/wuxiandd/fqvpn/","@type":"WebSite","headline":"好用的VPN推荐，国内仅2款好用(2022年2月翻墙避坑)","name":"翻墙君","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -480,7 +480,7 @@
 
 <p>如果访问官网仍然打不开，可能官方网站的服务器IP有变动，请在本页面issues提醒，或者等待1天左右，我会更新最新版本的hosts文件。</p>
 
-<p>如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。</p>
+<p>如有不懂，请<a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。</p>
 
 <h3 id="支付宝如何购买strongvpn">支付宝如何购买StrongVPN？</h3>
 
@@ -1093,7 +1093,7 @@
 
       <footer class="site-footer">
         
-        <span class="site-footer-credits">2020 CopyRight 版权所有<a href="https://vpncn.github.io">翻墙软件VPN推荐指南</a>.</span>
+        <span class="site-footer-credits">2020 CopyRight 版权所有<a href="https://github.com/wuxiandd/fqvpn">翻墙软件VPN推荐指南</a>.</span>
       </footer>
     </main>
 </body>
