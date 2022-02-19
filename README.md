@@ -848,57 +848,7 @@
 
   <p>在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。</p>
 
-  <h2 id="5-PandaVPN">5.<a rel="nofollow noopener" href="https://www.pankvyh.xyz/r/22216799" target="_blank"> PandaVPN</a></h2>
-
-  <p><a href="#6-PandaVPN"><img src="https://www.safewebcn.com/img/PandaVPN-logo.png" alt="PandaVPN" /></a></p>
-
-  <blockquote>
-    <p>2021年3月测试，勉强可用但没有亮点，体验很一般，少数节点能连上，但网速不算快。<strong>不再推荐使用这款</strong>，中国大陆的服务器被去除，翻墙回国（墙外翻回墙内）也不行了。</p>
-  </blockquote>
-
-  <p>国内打开PandaVPN官网需要改电脑Host文件，因为官网DNS在被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：</p>
-
-  <p>国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作：</p>
-
-  <p>1.下载hosts文件： <a rel="nofollow noopener" href="https://github.com/wuxiandd/fqvpn" target="_blank"> 下载地址</a>(右键另存为)</p>
-
-  <p>2.Windows用户将下载的hosts文件移动到文件夹 <code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
-
-  <p>3.完成之后清空浏览器缓存、刷新浏览器，然后<a href="https://www.pankvyh.xyz/r/22216799">点击获取PandaVPN官网优惠</a>。</p>
-
-  <p>完成之后，就可以正常访问官网和使用客户端了。</p>
-
-  <p>PandaVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，但是敏感时期节点几乎集体挂掉。在中国的网络速度、稳定性目前来说对比前几位算一般，就我去年的体验来说客户端vpn线路连不上的时间加起来有2个月左右，差不多80%左右的全年可用率，如果你在敏感时期用OpenVPN手动配置的话全年可用率会更高一些。</p>
-
-  <p>Pure的客户端支持中文，对国内的用户十分友好。<del>另一大特点是有北京、上海等城市的服务器，极大方便海外华人浏览优酷、爱奇艺、酷狗音乐等有国内版权的网站，是翻墙回国必备神器之一</del>（国内服务器目前已被去除）。</p>
-
-  <p><strong>支持设备</strong>：Windows、Mac OS、iOS（iPhone和iPad）、安卓Android这些常见的设备都有客户端APP，<strong>最多支持5台设备同时使用</strong>。Mac用户需要注意一下，我在Macbook上使用，发现Mac版本的APP在国内并不好用，软件很容易卡死，Mac系统最好是使用OpenVPN手动配置，在其他设备的APP客户端还没有发现这些问题。</p>
-
-  <ul>
-    <li>隐私保护</li>
-  </ul>
-
-  <p>PandaVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PandaVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。</p>
-
-  <ul>
-    <li>全球可访问</li>
-  </ul>
-
-  <p>“PandaVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能访问资源。”</p>
-
-  <p>我的体验：有些节点能连，但真的不算快。</p>
-
-  <ul>
-    <li>对抗审查制度</li>
-  </ul>
-
-  <p>“墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。”这是官方的宣传，实际上还是有节点会被墙，这点貌似都无法避免的。</p>
-
-  <p>付款方式主要包含银联卡、信用卡、支付宝、PayPal、比特币等，有31天内不满意退款政策。</p>
-
-  <blockquote>
-    <p>Mac电脑用户只能用手动配置连接，Mac的APP客户端很难用，不推荐Mac用户使用。</p>
-  </blockquote>
+  
 
   <h2 id="不要入坑的vpn">不要入坑的VPN</h2>
 
@@ -1028,11 +978,6 @@
 
   <p>其他品牌续费获得优惠的操作方法也是大致相同，因为一般<strong>优惠套餐只对新帐号开放</strong>，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。</p>
 
-  <p>…</p>
 
-  
-
-
-      </main>
   </body>
   </html>
