@@ -19,11 +19,11 @@
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxiandd&aff_click_id=fqvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxiandd&aff_sub2=fqvpn) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=fqvpn_vpn&chan=gitwuxiandd&data1=fqvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=fqvpn_vpn&chan=gitwuxiandd&data1=fqvpn) | - |
-| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxiandd&data2=fqvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxiandd/fqvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxiandd&data2=fqvpn) |
-| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxiandd&aff_click_id=fqvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxiandd&aff_sub2=fqvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxiandd&subId2=fqvpn) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxiandd&subId2=fqvpn) | - |
+| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxiandd&data2=fqvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxiandd/fqvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxiandd&data2=fqvpn) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn) |
+
 
 
   <!DOCTYPE html>
@@ -57,10 +57,10 @@
   <blockquote>
     <ul>
       <li>
-        <p><a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款<strong>在国内综合使用体验最好，速度在我所用过的VPN中最快</strong>，也是我自己最喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<strong><a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子</strong>。它设备支持最全面，<strong>iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选</strong>，已经运营了14年（至2022年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。<strong>平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高</strong>。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路可能速度变慢或连不上，如果遇到连接问题，可以切换L2TP协议（电脑端）或IKEV-2协议连接其他非推荐线路，也有部分线路在敏感时期仍然可用，可以作为备用选择，<strong>遇到推荐的服务器线路不能连接，更新一般需要2-3个工作日左右，各个系统的客户端更新版本开始陆续推出，注意要更新最新的客户端才能恢复使用推荐的线路</strong>。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看<a href="#如何购买expressvpn">购买ExpressVPN的方法</a>）。ExpressVPN的退款政策是有30天的试用期，试用期内不满意可全额退款，退款是按付款方式原路返回。</p>
+        <p><a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款<strong>在国内综合使用体验最好，速度在我所用过的VPN中最快</strong>，也是我自己最喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<strong><a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子</strong>。它设备支持最全面，<strong>iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选</strong>，已经运营了14年（至2022年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。<strong>平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高</strong>。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路可能速度变慢或连不上，如果遇到连接问题，可以切换L2TP协议（电脑端）或IKEV-2协议连接其他非推荐线路，也有部分线路在敏感时期仍然可用，可以作为备用选择，<strong>遇到推荐的服务器线路不能连接，更新一般需要2-3个工作日左右，各个系统的客户端更新版本开始陆续推出，注意要更新最新的客户端才能恢复使用推荐的线路</strong>。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看<a href="#如何购买expressvpn">购买ExpressVPN的方法</a>）。ExpressVPN的退款政策是有30天的试用期，试用期内不满意可全额退款，退款是按付款方式原路返回。</p>
       </li>
       <li>
-        <p><a href="#2-strongvpn--性价比最佳">StrongVPN</a>，成立于2005年的老牌VPN，母公司是J2 Global集团（在纳斯达克上市），位于美国硅谷。目前StrongVPN的<strong>价格在大厂VPN中最便宜</strong>，综合性价比不错，支持支付宝付款，这点比较方便。我已经使用了3年左右，总体来讲，在过去3年的使用时间里，全年可用率基本能达到95%左右，不挑线路的话几乎是100%能连，线路的服务器也会常年更新。<strong>使用请注意：在国内的Windows、Mac和安卓用户建议使用StrongVPN特供的精简客户端，可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，可以发中文，客服7/24在线。精简版客户端使用OpenVPN协议在中国的登录和连接更为顺畅</strong>，而官网直接下载的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新版本，<strong>国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程</strong>。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的iOS版APP，而且StrongVPN的通用iOS版本在国内使用的稳定性相对于Express欠佳，使用时需联系客服进行手动配置翻墙，怕麻烦的话，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN</a>。<strong>Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了</strong>。StrongVPN官网域名在中国被墙（软件APP能正常使用），<a href="#如何打开strongvpn官网">国内的网络打开StrongVPN官网</a>需要改电脑host文件才可以访问，因为在国内Strong官网DNS被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。<strong>StrongVPN的退款时限是30天</strong>，退款是全额按付款途径返回，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角“帮助”对话框或者发Ticket消息都行，大部分的问题基本都能解决。另外支付宝Alipay付款请查看后文提示，避免出现问题无法付款。</p>
+        <p><a href="#2-strongvpn--性价比最佳">StrongVPN</a>，成立于2005年的老牌VPN，母公司是J2 Global集团（在纳斯达克上市），位于美国硅谷。目前StrongVPN的<strong>价格在大厂VPN中最便宜</strong>，综合性价比不错，支持支付宝付款，这点比较方便。我已经使用了3年左右，总体来讲，在过去3年的使用时间里，全年可用率基本能达到95%左右，不挑线路的话几乎是100%能连，线路的服务器也会常年更新。<strong>使用请注意：在国内的Windows、Mac和安卓用户建议使用StrongVPN特供的精简客户端，可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，可以发中文，客服7/24在线。精简版客户端使用OpenVPN协议在中国的登录和连接更为顺畅</strong>，而官网直接下载的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新版本，<strong>国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程</strong>。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的iOS版APP，而且StrongVPN的通用iOS版本在国内使用的稳定性相对于Express欠佳，使用时需联系客服进行手动配置翻墙，怕麻烦的话，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN</a>。<strong>Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了</strong>。StrongVPN官网域名在中国被墙（软件APP能正常使用），<a href="#如何打开strongvpn官网">国内的网络打开StrongVPN官网</a>需要改电脑host文件才可以访问，因为在国内Strong官网DNS被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。<strong>StrongVPN的退款时限是30天</strong>，退款是全额按付款途径返回，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角“帮助”对话框或者发Ticket消息都行，大部分的问题基本都能解决。另外支付宝Alipay付款请查看后文提示，避免出现问题无法付款。</p>
       </li>
     </ul>
   </blockquote>
@@ -241,13 +241,13 @@
     <p>注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，我会在文中就每款VPN最近的使用体验进行总结，该文章会不断更新，请收藏本页面以便以后查看。</p>
   </blockquote>
 
-  <h2 id="1-expressvpn--速度体验最佳">1.<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank"> ExpressVPN – 速度体验最佳</a></h2>
+  <h2 id="1-expressvpn--速度体验最佳">1.<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn" target="_blank"> ExpressVPN – 速度体验最佳</a></h2>
 
   <blockquote>
     <p>2022年2月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay等线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，<strong>ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方在2021年新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款</strong>。目前由于国内政策原因，Express的支付宝付款通道被支付宝方面暂停了，可以优先选择国内银行卡、Paypal或带外币功能的信用卡购买。</p>
   </blockquote>
 
-  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn"><img src="https://www.safewebcn.com/img/express-logo-2021.png" alt="ExpressVPN" /></a></p>
+  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn"><img src="https://www.safewebcn.com/img/express-logo-2021.png" alt="ExpressVPN" /></a></p>
 
   <p>ExpressVPN最近几年一直是翻墙用户第一档的选择，尤其是注重翻墙安全的用户，虽然敏感时期有时也会有连不上、掉线的情况，但一般2个工作日就会对服务器线路、IP进行更新，用户直接更新客户端就恢复正常使用了，可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，<strong>适合对网络速度要求高和较好使用体验的朋友</strong>。</p>
 
@@ -303,9 +303,9 @@
 
   <p>国内银行卡购买ExpressVPN步骤如下：</p>
 
-  <p>首先进入<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：</p>
+  <p>首先进入<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：</p>
 
-  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png" alt="ExpressVPN套餐" /></a></p>
+  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png" alt="ExpressVPN套餐" /></a></p>
 
   <p>输入Email地址，必须输入真实的Email地址，因为之后需要接收包含账号和登录密码的邮件。</p>
 
@@ -335,7 +335,7 @@
 
   <h3 id="expressvpn的缺点">ExpressVPN的缺点</h3>
 
-  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn"><img src="https://www.safewebcn.com/img/express-vpn-servers-min.png" alt="express-vpn-servers" /></a></p>
+  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn"><img src="https://www.safewebcn.com/img/express-vpn-servers-min.png" alt="express-vpn-servers" /></a></p>
 
   <ul>
     <li>ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠<strong>买一年送三个月活动，每月$6.67/月</strong>，支持银联卡、Paypal和信用卡等支付方式。</li>
@@ -408,7 +408,7 @@
 
   <p>套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。</p>
 
-  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png" alt="ExpressVPN付款方式" title="ExpressVPN付款方式截图" /></a></p>
+  <p><a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn"><img src="https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png" alt="ExpressVPN付款方式" title="ExpressVPN付款方式截图" /></a></p>
 
   <p>ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，在手机安装APP客户端请参考：<a href="#怎么下载和登录vpn客户端">怎么下载和登录VPN客户端?</a></p>
 
@@ -422,7 +422,7 @@
     <p><strong>推荐用户</strong>：对速度和稳定性有要求的用户、iPhone用户首选</p>
   </blockquote>
 
-  <h3 id="-获取expressvpn优惠-"><center><a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">&gt;&gt; 获取ExpressVPN优惠 &lt;&lt;</a></center></h3>
+  <h3 id="-获取expressvpn优惠-"><center><a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn" target="_blank">&gt;&gt; 获取ExpressVPN优惠 &lt;&lt;</a></center></h3>
 
   <blockquote>
     <p>由于冒牌网站很多，官方已经不再使用镜像域名（只提供更新客户端、联系客服使用）处理中国地区的新订单，目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。</p>
@@ -443,14 +443,14 @@
   <p><a href="#2-strongvpn--性价比最佳"><img src="https://www.safewebcn.com/img/strong-logo.png" alt="StrongVPN" /></a></p>
 
   <blockquote>
-    <p>2022年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，<strong>目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的</strong>，目前也有较大的价格优惠。<strong>Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高</strong>（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。<strong>另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法</strong>。</p>
+    <p>2022年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，<strong>目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的</strong>，目前也有较大的价格优惠。<strong>Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高</strong>（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2gitwuxiandd&data1=fqvpn" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。<strong>另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法</strong>。</p>
   </blockquote>
 
   <p>StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源是应对墙的封锁最有效的办法。</p>
 
   <h3 id="strongvpn在中国表现怎么样">StrongVPN在中国表现怎么样？</h3>
 
-  <p>StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。从前几年也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，<strong>给在中国境内的用户提供最新的使用信息和公告，帖子有中文版（<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">StrongVPN官网</a>点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）</strong>，其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。<strong>技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），之前几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定。从19年初开始使用到现在，过去几年总体使用情况来看，翻墙可用率可保持在95%以上</strong>。服务器经常会时常更新，每次登陆客户端都会自动检测服务器的更新。</p>
+  <p>StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。从前几年也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，<strong>给在中国境内的用户提供最新的使用信息和公告，帖子有中文版（<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">StrongVPN官网</a>点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）</strong>，其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。<strong>技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），之前几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定。从19年初开始使用到现在，过去几年总体使用情况来看，翻墙可用率可保持在95%以上</strong>。服务器经常会时常更新，每次登陆客户端都会自动检测服务器的更新。</p>
 
   <p>另外提醒一下，建议在官网右下角的在线聊天框或者在用户后台页面发ticket，联系客服获取特供的精简版客户端，直接说在中国使用客服就会帮你搞定账号设置和提供精简版客户端最新版本的下载地址。这个版本是官方的不公开版本，在国内很好用，我一直用的精简版客户端，官网直接安装的通用版的节点时不时会被屏蔽，我很长时间没用了。</p>
 
@@ -460,7 +460,7 @@
     <p>购买、下载和安装Strong客户端和使用请详细阅读本文，避免后续使用出现问题。</p>
   </blockquote>
 
-  <p>有梯子的同学直接<strong>可访问<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">StrongVPN官网（独家优惠）</a></strong>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service…”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。</p>
+  <p>有梯子的同学直接<strong>可访问<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">StrongVPN官网（独家优惠）</a></strong>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service…”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。</p>
 
   <p><strong>国内本地网络访问方法</strong>：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。</p>
 
@@ -470,9 +470,9 @@
 
   <p>2.Windows用户将下载的hosts文件移动到文件夹，路径是<code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
 
-  <p>3.完成之后清空浏览器缓存、刷新或重启浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank"> 点击获取StrongVPN独家优惠</a>。</p>
+  <p>3.完成之后清空浏览器缓存、刷新或重启浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank"> 点击获取StrongVPN独家优惠</a>。</p>
 
-  <p>完成之后，就可以正常访问官网了。购买后，在手机安装APP客户端请参考：<a href="#怎么下载和登录vpn客户端">怎么下载和登录VPN客户端?</a>，另外，<strong>官网有如何在中国使用StrongVPN的中文版详细帖子：（<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">打开StrongVPN官网</a>，点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）</strong>。</p>
+  <p>完成之后，就可以正常访问官网了。购买后，在手机安装APP客户端请参考：<a href="#怎么下载和登录vpn客户端">怎么下载和登录VPN客户端?</a>，另外，<strong>官网有如何在中国使用StrongVPN的中文版详细帖子：（<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">打开StrongVPN官网</a>，点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）</strong>。</p>
 
   <p>如果访问官网仍然打不开，可能官方网站的服务器IP有变动，请在本页面issues提醒，或者等待1天左右，我会更新最新版本的hosts文件。</p>
 
@@ -503,7 +503,7 @@
   <p><strong>联系客服的方法：</strong></p>
 
   <blockquote>
-    <p>1.通过在线聊天窗口，这种方式最快，<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">打开官网</a>，点击右下角黄色的“Help”弹出窗口，点击Get in touch，然后点击 “Live Chat”，输入信息开启聊天。客服团队也有中文客服在线，可以在聊天窗口使用中文沟通。</p>
+    <p>1.通过在线聊天窗口，这种方式最快，<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">打开官网</a>，点击右下角黄色的“Help”弹出窗口，点击Get in touch，然后点击 “Live Chat”，输入信息开启聊天。客服团队也有中文客服在线，可以在聊天窗口使用中文沟通。</p>
 
     <p>2.官网登录账号，用户后台界面点击“Support tickets”，然后Submit new ticket，输入信息发送，一般最长一个工作日内回复信息。</p>
 
@@ -518,7 +518,7 @@
 
   <h3 id="如何获取strongvpn">如何获取StrongVPN？</h3>
 
-  <p>1.进入<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：</p>
+  <p>1.进入<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：</p>
 
   <p><a href="#如何获取strongvpn"><img src="https://www.safewebcn.com/img/StrongVPN-price-table-2022-1.png" alt="Strong-device" /></a></p>
 
@@ -526,13 +526,13 @@
 
   <p>输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。</p>
 
-  <p>在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以联系客服下载精简版客户端并安装使用了，国内能连的服务器线路可以参考：<a href="#strong线路选择">Strong线路如何选择</a>。</p>
+  <p>在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以联系客服下载精简版客户端并安装使用了，国内能连的服务器线路可以参考：<a href="#strong线路选择">Strong线路如何选择</a>。</p>
 
   <p>支付过程中可能会遇到问题（如下图）或是支付宝付款页面显示“参数遇到问题”，我付款时就遇到了，解决办法和下文一样，需要登录用户后台的“Billing Area”板块，付款订单进行确认就OK了。</p>
 
   <p><a href="#如何获取strongvpn"><img src="https://www.safewebcn.com/img/Strong-problem-min.png" alt="Strong-problem" /></a></p>
 
-  <p><strong>如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败</strong>，需要<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：</p>
+  <p><strong>如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败</strong>，需要<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：</p>
 
   <p><a href="#如何获取strongvpn"><img src="https://www.safewebcn.com/img/strongvpn-billing-min.png" alt="Strong-billing" /></a></p>
 
@@ -561,7 +561,7 @@
   <h4 id="windows系统mac和安卓手机">Windows系统、Mac和安卓手机</h4>
 
   <blockquote>
-    <p><strong>中国Windows、Mac和安卓手机用户用户建议使用精简版客户端</strong>，这是官网客服推荐在中国使用的。因为墙的干扰，标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，这也是为了防止被墙采取的替代措施，<strong>最新版本请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端</strong>。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Help”帮助聊天框，选择Technical Support（技术支持）提出你的问题。</p>
+    <p><strong>中国Windows、Mac和安卓手机用户用户建议使用精简版客户端</strong>，这是官网客服推荐在中国使用的。因为墙的干扰，标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，这也是为了防止被墙采取的替代措施，<strong>最新版本请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端</strong>。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Help”帮助聊天框，选择Technical Support（技术支持）提出你的问题。</p>
 
     <p><strong>重要提示</strong>：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角“帮助”聊天框联系技术客服”Technical Support”，联系客服说在中国使用就行了，客服会马上帮你设置OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中线路连接不上，需要选择合适的线路，可以参考<a href="#strong线路选择">Strong线路选择提示</a>。</p>
   </blockquote>
@@ -730,7 +730,7 @@
 
   <p>StrongVPN同样支持30天退款保证，有足够的时间测试使用。如果需要退款，可以找客服申请处理就行了，退款方式是按付款的路径原路返回。</p>
 
-  <h2 id="3-nordvpn">3.<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxiandd&aff_click_id=fqvpn" target="_blank"> NordVPN</a></h2>
+  <h2 id="3-nordvpn">3.<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxiandd&aff_click_id=fqvpn" target="_blank"> NordVPN</a></h2>
 
   <p><a href="#3-nordvpn"><img src="https://www.safewebcn.com/img/nord-min.png" alt="NordVPN" /></a></p>
 
@@ -748,7 +748,7 @@
 
   <p>2.Windows用户将下载的hosts文件移动到文件夹 <code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
 
-  <p>3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxiandd&aff_click_id=fqvpn" target="_blank"> 点击获取NordVPN官网优惠</a>。</p>
+  <p>3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxiandd&aff_click_id=fqvpn" target="_blank"> 点击获取NordVPN官网优惠</a>。</p>
 
   <p>完成之后，就可以正常访问官网和使用客户端了。</p>
 
@@ -792,7 +792,7 @@
     <p>注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址，进行手动配置，连接成功率和速度我感觉明显要高于APP直连。</p>
   </blockquote>
 
-  <h2 id="4-ivacy">4.<a rel="nofollow noopener" href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxiandd&data2=fqvpn" target="_blank"> IVacy</a></h2>
+  <h2 id="4-ivacy">4.<a rel="nofollow noopener" href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxiandd&data2=fqvpn" target="_blank"> IVacy</a></h2>
 
   <p><a href="#6-ivacy"><img src="https://www.safewebcn.com/img/ivacy-logo.png" alt="IVacy" /></a></p>
 
@@ -810,7 +810,7 @@
 
   <p>2.Windows用户将下载的hosts文件移动到文件夹 <code class="language-plaintext highlighter-rouge">C:\Windows\System32\drivers\etc</code> （Mac的文件夹是 <code class="language-plaintext highlighter-rouge">/etc/hosts</code>），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。</p>
 
-  <p>3.完成之后清空浏览器缓存、刷新浏览器，然后<a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxiandd&data2=fqvpn">获取IVacy官网优惠</a>。</p>
+  <p>3.完成之后清空浏览器缓存、刷新浏览器，然后<a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxiandd&data2=fqvpn">获取IVacy官网优惠</a>。</p>
 
   <p>完成之后，就可以正常访问官网和使用客户端了。</p>
 
@@ -983,8 +983,7 @@
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxiandd&aff_click_id=fqvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxiandd&aff_sub2=fqvpn) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=fqvpn_vpn&chan=gitwuxiandd&data1=fqvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=fqvpn_vpn&chan=gitwuxiandd&data1=fqvpn) | - |
-| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxiandd&data2=fqvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxiandd/fqvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxiandd&data2=fqvpn) |
-| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitwuxiandd&data2=fqvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxiandd&aff_click_id=fqvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxiandd&aff_sub2=fqvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxiandd&subId2=fqvpn) | [Express备用地址1](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxiandd&subId2=fqvpn) | - |
+| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxiandd&data2=fqvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxiandd/fqvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxiandd&data2=fqvpn) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitwuxiandd&data2=fqvpn) |
